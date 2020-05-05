@@ -1,0 +1,156 @@
+body {
+  font-family: monospace;
+  background-color: red;
+  color: white;
+}
+
+#extortion {
+  background-color: red;
+  color: white;
+}
+
+article {
+  width: 80vw;
+  max-width: 50em;
+  background-color: black;
+  padding: 2em;
+  padding-top: 1.25em;
+  display: flex;
+  flex-flow: column;
+  margin: auto;
+}
+#extortion article {
+  background-color: black;
+}
+
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: arial;
+  font-size: 1.675em;
+  margin: 0.75em;
+  margin-left:0;
+  margin-right:0;
+}
+h1 span {
+  background-color: black;
+  padding: 0.2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+@media screen and (max-width: 18.812em) {
+   h1 span {
+    background-color: inherit;
+    color: black;
+}
+}
+
+h1 a {
+  color: inherit;
+  text-decoration: inherit;
+}
+h1 a:hover {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: white;
+  -webkit-text-decoration-color: white;
+
+}
+
+h2 {
+  margin: 0.4em;
+  margin-top: 0.75em;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h3 {
+  margin: 0.4em;
+  margin-top: 0.75em;
+  font-weight: bold;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+
+h4 {
+  margin: 0.5em;
+  margin-top: 0.75em;
+  text-decoration: underline;
+  font-size: 1.15em;
+}
+
+p {
+  margin: 0.1em;
+  margin-left: 2em;
+  font-size: 1.05em;
+  margin-bottom: 1em;
+}
+
+ol {
+  list-style-type: lower-latin;
+  margin: 0.01em;
+  margin-left: 0.75em;
+}
+
+li {
+  margin-bottom: 0.25em;
+}
+
+man {
+  margin-top: 1em;
+}
+
+#extortion man p {
+  border: 1px solid white;
+  padding: 1em;
+  text-transform: uppercase;
+}
+#extortion man p:hover {
+  border: 1px solid red;
+  color: white;
+  background-color: red;
+}
+
+a {
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: #A3A3A3;
+  -webkit-text-decoration-color: #A3A3A3;
+}
+
+
+a:hover {
+  color: pink;
+  text-decoration-color: pink;
+  -webkit-text-decoration-color: pink;
+}
+
+footer {
+  color: black;
+  text-align: center;
+  margin: 1.25em;
+  font-size: 1.25em;
+}
+footer a[href="appendix.html"]{
+  font-size: 1.4em;
+  position: relative;
+  top: 0.075em;
+}
+
+footer a {
+  color: black;
+  text-decoration: none;
+}
+footer a:hover {
+  color: pink;
+}
+
+::selection{
+  color: white;
+  background: blue;
+
+}

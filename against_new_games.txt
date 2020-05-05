@@ -1,0 +1,189 @@
+		[AGAINST NEW GAMES: TOWARDS A ROBUST VIDEOGAMING]
+
+...	PREAMBLE
+
+p.1	The state of videogames today is abysmal. While the gaming industry has 
+	always been dominated by commercial concerns, there still remained room 
+	for development teams to express themselves and their love for the 
+	medium. This is no longer the case on any meaningful scale. The profit 
+	motive has come to dominate in every aspect of game development with 
+	publishers routinely participating in hostile, anti-consumer practices
+ 	[1] and unethical behavior present in every aspect of the industry. The
+ 	result is a standard of quality so unreliable [2], and general 
+	expectation [3] of consumer exploitation so high, the only historical 
+	comparison is the period immediately preceding the Videogame Crash of 
+	1983 [4].
+
+p.2	It's clear, too, that the industry's degrading view of its consumers 
+	extends to the medium of videogames itself. While hobbyists have always 
+	demonstrated a deep respect and love for the medium, the industry's 
+	largest publishers make a routine habit [5][6] of destroying beloved 
+	studios and franchises for momentary profits, and regularly employ anti-
+	game practices [7] that limit their ability to be enjoyed in the long 
+	term. The short-term perspective of the industry has lead to even 
+	flagship titles [8][9][10] being treated as throwaways without lasting 
+	value, designed with an expected lifespan of a single generation in 
+	mind. Their marketing is instilled with this perspective, primarily 
+	emphasizing graphical upgrades as the key selling point [11], despite 
+	the fact they'll become outdated [12] in a few years, while the games 
+	themselves remain uninnovative, each generation releasing [13] and re-
+	releasing [14] the same titles in different skins.
+
+p.3	The truth is, the technical returns of hardware are stagnating [15]. In 
+	the past, the creative vision of developers was highly constrained [16] 
+	by hardware capabilities before any other concerns, but this is no 
+	longer the case. The technology is improving, but the games are only 
+	getting prettier, not more complex, not better.
+
+p.4	Is "pretty" really the reason we play videogames? Does it really justify 
+	being trapped on this hardware treadmill? How many times will we have to 
+	invest in system upgrades just to keep playing the same game? And 
+	really, why should we?
+
+...AGAINST NEW GAMES
+
+1. GOOD GRAPHICS ARE UNIMPORTANT
+
+  a.	In practice, good graphics means whatever is closest to photorealism 
+	today. It's a relative, moving standard that becomes outdated every 
+	generation: yesterday's realism is today's eyesore [17].
+  b.	Photorealistic graphics is primarily a marketing gimmick [18]. It’s used 
+	to sell every new generation of hardware, and important enough that the 
+	industry often resorts to deceptive advertising [19][20].
+  c.	The technical quality of graphics has little influence [21] on the 
+	actual experience of play. The visual aspect of the game experience is 
+	largely affected by its art design, not its graphical standard.
+  d.	Emphasizing photorealism is a short-term decision. It looks good only in 
+	the current generation, but ages poorly [22] in comparison to stylized 
+	or abstracted visuals [23].
+  e.	Achieving the contemporary standard of photorealism is expensive. The 
+	drive for visual quality is the primary factor raising the cost of game 
+	development [24]. The result is that game companies experience tighter 
+	profit margins and are forced to limit design decisions to the market 
+	conservative.
+
+2. THE HARDWARE TREADMILL IS UNNECESSARY
+
+  a. 	The hardware benefits to technical complexity have plateaued [25]. 
+	Development will hit other ceilings long before they do a hardware 
+	limitation.
+  b. 	Consumers are forced to upgrade their hardware every generation to 
+	continue playing new products, but this hardware treadmill does nothing 
+	to contribute to gameplay [26]. The continuously rising hardware 
+	standard now exists entirely to support every generation's new graphical 
+	standard [27].
+  c.	Developers could optimize for lower minimum hardware requirements [28] 
+	and provide extensive end-user graphics configurability [29], but they 
+	choose not to, forcing everyone to stay on the hardware treadmill to 
+	continue playing new games. The exceptions prove the rule: Valve [30], 
+	Blizzard [31] and Croteam [32] are studios well-known for their highly 
+	optimized releases.
+
+3. HARMFUL PRACTICE HAVE BECOME INDUSTRY STANDARDS
+
+  a.	The industry as a whole increasingly employs consumer-hostile practices 
+	in its publication and distribution, such as: 
+	artificial exclusivity, centralized multiplayer servers, DRM, exclusive 
+	content and pre-order bonuses, limited backwards compatibility, no LAN 
+	multiplayer, no split-screen, console online subscriptions, P2W and 
+	microtranscation models, paid DLC, subscription releases or seasonal 
+	passes and vendor lock-in [33].
+  b.	Even the indie industry, which has heavily commercialized over the last 
+	decade, has begun to adopt some questionable practices, such as:
+	closed source & non-free software, early access, crowdfunding and 
+	paywalled content [34].
+  c.	It is uncomfortable to participate in and unethical to support this 
+	industry, and it will only change when consumers as a group reject it 	
+	[35].
+
+4. GOOD GAMES DON'T AGE
+
+  a.	Good game design is eternal [36]. The best games of the past are all 
+	just as rewarding to play today as they were at their release. This is 
+	evidenced by the common practice of rereleasing older games [36].
+  b.	Innovation in game design is less and less tied to innovation in 
+	technology [37]. Any game made today could easily have been made 10 
+	years ago once we discount graphics.
+  c.	In the long-term, games are evaluated on the merits of their game design 
+	[38], while the technical achievement of their graphics become 
+	irrelevant [39].
+  d. 	The near-complete historical library of video games [40] is readily 
+	accessible through emulation [41]. A lifetime isn't enough to exhaust 
+	the long list of highly regarded games [42].
+  e.	The majority of games of every generation will be forgettable [43], and 
+	conversely, only the worthwhile ones will be remembered. There is little 
+	reason to bother sifting through today's trash when you can play 
+	yesterday's gems.
+
+...ROBUST VIDEOGAMING: A MANIFESTO
+
+1.   REJECT GRAPHICAL QUALITY AS AN INFLUENCE ON YOUR INTERPRETATION OF A GAME’S 
+     VALUE.
+
+2.   REJECT ANY GAME THAT CANNOT BE PLAYED ON INEXPENSIVE HARDWARE.
+
+3.   REJECT ANY GAME THAT IS DESIGNED OR RELEASED WITH HARMFUL PRACTICES.
+
+4.   CONFIGURE YOUR SYSTEM(S) TO MAKE FULL USE OF THE EMULATION OPTIONS              
+     AVAILABLE.
+
+5.   CONSIDER ALL NEW GAMES RELEASED TODAY ALONGSIDE ALL GAMES RELEASED IN THE 
+     PAST, NOT ONLY IN THE ISOLATED CONTEXT OF THEIR OWN GENERATION.
+
+6.   CONSIDER ALL NEW GAMES RELEASED TODAY FROM A LONG-TERM PERSPECTIVE. ASK 
+     YOURSELF: IN 20 YEARS, WOULD I CHOOSE TO PLAY THIS GAME, OR THE 40 YEAR OLD 
+     ONE?
+
+...CITATIONS
+01. 	Against New Games, "Harmful Practices"
+	  harmful_practices.html
+02. 	"The Deceptive Marketing of Video Games"
+	  http://archive.is/vRRU7
+03.	"How Do Video Game Publishers Continue To Get Away With Mistreating 	
+	 Their Customers?"
+	  http://archive.is/nFrwW
+04.	Wikipedia, "Videogame Crash of 1983"
+	  http://archive.is/t0Msf
+05.	"Studios EA Has Killed: A History"
+	  http://archive.is/Cgu4j
+06.	"Exactly how many studios has Activision actually closed this 
+	generation?"
+	  https://web.archive.org/web/20180215050639/http://www.gamesradar.com/
+exactly-how-many-studios-has-activision-closed-generation-exactly-many
+07.
+08.
+09.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.

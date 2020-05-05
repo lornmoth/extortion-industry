@@ -1,0 +1,210 @@
+body {
+  font-family: monospace;
+  background-color: blue;
+  color: black;
+}
+
+#harmful {
+  background-color: lightgrey;
+  color: white;
+}
+
+#appendix {
+  background-color: black;
+  color: black;
+}
+
+#harmful footer, #harmful footer a {
+  color: black;
+}
+
+#appendix h1 {
+  color: black;
+}
+
+article {
+  width: 80vw;
+  max-width: 50em;
+  background-color: white;
+  padding: 2em;
+  padding-top: 1.25em;
+  display: flex;
+  flex-flow: column;
+  margin: auto;
+}
+#harmful article {
+  background-color: black;
+}
+#appendix article {
+  background-color: white;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: arial;
+  font-size: 1.675em;
+  margin: 0.75em;
+}
+
+@media screen and (max-width: 27.49em) {
+  #harmful h1 span {
+    background-color: inherit;
+    color: black;
+}
+}
+
+h1 span {
+  background-color: black;
+  padding: 0.2em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+#appendix h1 span {
+  background-color: white;
+}
+
+h1 a, h1 a:hover {
+  color: inherit;
+  text-decoration: inherit;
+}
+h1 a:hover, #harmful h1 a:hover  {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: white;
+  -webkit-text-decoration-color: white;
+}
+
+h2 {
+  margin: 0.4em;
+  margin-top: 0.75em;
+  font-weight: bold;
+  text-decoration: underline;
+  text-align: center;
+}
+h3 {
+  margin: 0.5em;
+  margin-top: 0.75em;
+  text-decoration: underline;
+  font-size: 1.15em;
+}
+
+p {
+  margin: 0.1em;
+  margin-left: 2em;
+  font-size: 1.05em;
+  margin-bottom: 1em;
+}
+p.center{
+  text-align: center;
+  font-size: 1.2em;
+}
+
+ol {
+  list-style-type: lower-latin;
+  margin: 0.01em;
+  margin-left: 0.75em;
+}
+
+li {
+  margin-bottom: 0.25em;
+}
+
+man {
+  margin-top: 1em;
+}
+man p {
+  font-size: 1.15em;
+  margin-bottom: 0.5em;
+  margin-left: 0.5em;
+  border: 1px solid black;
+  padding: 1em;
+}
+man p:hover {
+  border: 1px solid blue;
+  color: white;
+  background-color: blue;
+}
+
+#appendix man p {
+  border: 1px solid black;
+  text-align: center;
+}
+#appendix man p:hover {
+  border: 1px solid black;
+  color: white;
+  background-color: black;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: #A3A3A3;
+  -webkit-text-decoration-color: #A3A3A3;
+}
+a:hover {
+  color: blue;
+  text-decoration-color: lightblue;
+  -webkit-text-decoration-color: lightblue;
+}
+#appendix man a:hover {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: grey;
+  -webkit-text-decoration-color: inherit;
+}
+#harmful a {
+  color: white;
+}
+a:hover, #harmful footer a:hover {
+  color: blue;
+  text-decoration-color: lightblue;
+  -webkit-text-decoration-color: lightblue;
+}
+
+#harmful a:hover {
+  color: lightblue;
+  text-decoration-color: lightblue;
+  -webkit-text-decoration-color: lightblue;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  margin: 1.5em;
+  margin-bottom: 1em;
+  font-size: 1.25em;
+}
+footer.appendix {
+  margin-top: 0.01em;
+  margin-bottom: 2em;
+
+  position: relative;
+  right: 0.2em;
+  margin-bottom: 1em;
+}
+
+footer a[href="appendix.html"]{
+  font-size: 1.4em;
+  position: relative;
+  top: 0.075em;
+}
+
+footer.license {
+  font-size: 1em;
+  margin-bottom: 1em;
+
+}
+footer a {
+  color: white;
+  text-decoration: none;
+}
+footer a:hover {
+  color: orange;
+}
+
+::selection{
+  color: white;
+  background: blue;
+
+}
