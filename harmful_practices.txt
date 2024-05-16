@@ -1,0 +1,83 @@
+        [HARMFUL PRACTICES: GLOSSARY]
+
+
+...HARMFUL INDUSTRY PRACTICES
+
+1. ALWAYS ONLINE
+        Requiring a constant internet connection, even for single-player games, violate genuine ownership over the game. At any time, the company's decision to discontinue support can permanently remove access to the game. In many cases, this has permanently removed the game from existence. The use of forced online is also often a cover to have secret telemetry spying on the player to sell the user data to third-parties.
+
+2. ARTIFICIAL EXCLUSIVITY
+        Publishers regularly make deals with console companies to not release an individual title to their competitor's systems. Restricting games to their system in this way forces consumers to purchase the system to gain access to the title. The different libraries of each console is the primary differentation factor, but due to system similarities, especially between Microsoft and Sony's offerings in the previous 2 generations, multi-system releases have become relatively cost-effective. Employing contractually restricted exclusivity allows the console companies to create artifical value for their system at the expense of the consumer. It is also hurts the games ability to be played both in the present and in the long-term, especially considering the general trend against backwards compatability.
+
+3. LIMITED BACKWARDS COMPATABILITY
+        Consoles often artificially prohibit backwards compatibality to limit access to the previous system's game archives. This done to force players onto the new generation of games, even as they face a reduction in quality.
+
+4. CENTRALIZED MULTIPLAYER SERVERS
+        Centralized multiplayer servers for a multiplayer-focused game makes its lifespan entirely beholden to the company's whims and fortune. If there is no LAN or split-screen options available, the game's multiplayer component is rendered effectively unplayable the moment they choose to pull the plug. Companies can and often do shut down servers without warning, even for games with still-active communities. Any company that cares about a future for its game would provide the ability for players to self-host their own servers.
+
+5. DIGITAL RIGHTS MANAGEMENT
+        DRM, or anti-piracy software, is by nature invasive and limiting. It's also always eventually cracked, resulting in a damaged experience for actual buyers compared to the pirates. There is also no genuine defense for the desire to enforce DRM.
+
+6. BANNING DIGITAL RESALES
+        Publishers maintain a pretense of digitally sold games as being akin to physically sold games to demand payment for reproducible information. If this metaphor were to hold, then players should also have the opportunity to resell these game licenses on a secondary market when they lose interest in the game. This is prohibited to maximize sales to the publisher in a clear case of hypocrisy.
+
+7. EXCLUSIVE CONTENT/PRE-ORDER BONUSES 
+        Publishers will have real content produced, then artificially restricted as incentive bonuses to maximize sales. This content is frequently lost permanently in the long-term. It's also predatory to push for pre-orders, acquiring commitments from consumers before they have a chance for reviews to inform their purchase decision.
+
+8. END USER LICENSE AGREEMENTS
+        The "license" fraud is upheld with the EULA, a long agreement forced to play any digitally purchased game that has the player give up any right to the license they were marketed as purchasing. Instead they are given a non-exclusive subscription that can be taken away at any notice. Their purchase grants no actual rights.
+
+9. FILESIZE BLOAT 
+        Developers have taken advantage of hardware advances to ignore game optimization and stuff files with dead weight, such as gigabytes of multi language voice acting, without providing any selection in the install to avoid filling your harddrive with reams of unnecessary data. It's a demonstration of how little the consumer is valued, forcing unnecessary hardware upgrades to accomodate.
+
+10. GAME LAUNCHER LOCK-INS 
+        Some publishers have chosen to release first-party game launchers and partner with third-parties and place the game exclusive to them. This clearly places the game in anti-robust jeapordy as well as forcing the unnecessary creation of multiple accounts and distribution of a player's library across multiple platforms and servers.
+
+11. HOSTILITY TO MODDING
+        Many publishers take a hostile stance to user generated content, which is absurd considering it's a massive amount of man-hours dedicated by genuine fans towards improving the games at no-cost to the publisher. One can only surmise it originates in spite.
+
+12. INTERNET-REQUIRED INSTALLATION 
+        Despite a physical release, a game still requiring internet connection to actually install the game files. The robustness of the physical media as a backup of the game files in the case of the publisher ending support is lost.
+
+13. NO LAN MULTIPLAYER
+        The elimination of LAN multiplayer is entirely artificial, forcing players onto online servers to enforce DRM and most importantly, require new paid licenses of the game for every player.
+
+14. NO SPLIT-SCREEN MULTIPLAYER
+        The elimination of local multiplayer has greatly damaged the healthy social aspect of videogames. Like the elimination of LAN multiplayer, it's motivated only by the desire to sell more copies of the game and more consoles.
+
+15. REVOKABLE GAME LICENSES 
+        Exploiting the EULA players are forced to agree to play their purchased game, publishers retain the right to revoke the license without cause or notice despite nominally marketing the purchase agreement as one that occurs in exchange for the license. The consumer earns no actual rights with their purchase.
+
+16. INTERNET SUBSCRIPTION FEES
+        Even after a game is purchased, publishers might lock the multiplayer behind a subscription fee, while also removing LAN and local multiplayer options, forcing the player to pay continuous on-going fees to enjoy the game they purchased.
+
+17. PAID DLC
+        The creation and excision of real game content to be sold as an additional tie-in to the already purchased game is abhorrent, anti-robust from an archive perspective and very often misleadingly marketed, not at all worth the price compared to the game content offered with the initial purchase price.
+
+18. SUBSCRIPTION RELEASES OR SEASONAL PASSES   
+        As the purchase of a game guarantees no actual rights, publishers have discovered they can continuously demand new payments for continued access to the game. Due to demanding online connectivity and platform based licenses, the publisher can simply revoke access to game content at any time if the player stops buying in.
+
+19. TELEMETRY/SPYWARE 
+        Almost every game that incorporate internet connectivity uses the opportunity to track user data without disclosure to gather information to sell to advertisers.
+
+...HARMFUL INDIE PRACTICES 
+    These practices are not nearly as harmful as those listed above, but are notable because the bad faith actors practicing these things exploit the communal spirit of indie game development, selfishly causing damage to the wider community in favor of increased personal profits.
+
+1. CLOSED SOURCE & NON-FREE SOFTWARE 
+        Closed source software hurts independent development. If indie game devs maintained a practice of OSS, the barrier to entry for new games would be greatly reduced. They instead maintain a severe scarcity mindset and treat other indie devs as direct competition, forcing tons of work to be redone between every studio. This is especially considering their heavy reliance on advanced engines made freely available for the benefit of the medium.
+
+2. CROWDFUNDING 
+        Crowdfunding is only ethical if the developers do not profit on their product, or a stake in the future profits is provided to the contributors. By its nature, the contributors are expected to play the role of investor and take on full financial risk. Further, the crowdfunders risk is amplified by the lack of assurance controls that allow them to make sure the end-product follows what they were promised. The major crowdfunding platforms offer zero means to punish a team who fails to complete their project or for the investors to re-acquire their funds. The entire process is an act of both good faith and extreme risk on the crowdfunder's part.
+
+        In contrast, the developers take on zero risk. They are paid for their time and suffer no consequences if they fail to be open about their financials or production schedule, or even deliver their promised product. The only contractual obligation is with the crowdfunding platform and that is limited to making the apperance of sincere intent to deliver, at least until the money is in their hands. Yet, despite taking on no risk of any kind, as a culture developers somehow feel entitled to then sell their product and keep a full share of its profits. Despite taking on the full risk of investment, the crowdfunders receive no return from the sales.
+
+        There is no justification for the developer to sell their product other than they can get away with it. If the crowdfunding is understood as donation by the community, then the completed work should be provided freely to the commons. A non-profit museum does not fund an artist residency only for the artist to sell the works to private collectors, it is expected to be presented to the public. Why would developers reap pure profit after already being paid for their time on a product they took on no risk for? It is a nonsensical business proposal. That the crowdfunding companies do not provide any method to mitigate abuse or that the crowdfunders open themselves to abuse by acting on good faith does not make it justified.
+
+3. Early Access
+        Making consumers pay for early access is effectively requiring a game's early supporters to pay to play the role of beta tester. This is a duty people in the past performed for free as a contribution to the indie community and to help the development of the games they loved. Monetizing this position is an act of bad faith. It is especially exploitative when it is a decision taken after the community has already formed around the game.
+
+        A secondary result of normalizing the sale of games in an incomplete state is de-incentivizing financially motivated developers from producing quality work as their customerbase and their money is already obtained by the incomplete product. Similar to crowdfunded products only needing to worry about selling their pitch, not a complete game, early access products only need to worry about selling their demo. If it does not seem the future profits are worth continuing the game for, the developer suffers no consequences from dropping the project despite his non-contractual promise to the "early backers". This is an opportunity easily and regularly exploited by indie developers.
+
+4. Paywalled Development Blogs
+
+        Independent developers regularly make use of the Patreon platform to regulate donations in the form of a monthly subscription. However, for some donations are not enough, and they resort to cutting content away from their fanbase to share to only to "Patreon Backers" in an attempt to incentivize purchasing a subscription above a certain rate. In extreme cases, the cut content is actual game content, but most often it is content regarding the development of the game. In this way, they have monetized the common dialogue on development processes, and by doing so, hurt its openness. This stagnates the growth of the indie development community by limiting friendly, open communication. of innovations and techniques.
