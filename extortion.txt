@@ -1,0 +1,191 @@
+		[EXTORTION INDUSTORY: GAMES WERE NEVER PRODUCTS]
+
+
+...GAMES WERE NEVER PRODUCTS
+
+p.1     If you think you've ever purchased or owned a game, you've been lied to.
+        Games are software, information. The troublesome thing about information 
+        is that it's not a tangible, irreproducible good. It can't be traded. The 
+        only thing that can be exchanged are the ownership rights associated with 
+        that information.
+
+p2.     Instead, what you've paid money for is a service. You're paying for rent 
+        to a license that gives you the right to use the game. The license you've 
+        rented is the only thing that distinguishes you from someone who pirated 
+        the same software. Without the license, you are liable to be sued under 
+        "copyright infringement" by the company that maintains ownership of the 
+        copyright. This is written out clearly, if in fine print, in every End 
+        User License Agreement and, yes, the rent can be revoked at will without 
+        warning or consequence.
+
+p.3     The software itself is not important. The game is already freely 
+        available across the internet. It's playing (or sharing) the game without 
+        possessing the appropriate license that leaves you vulnerable to a 
+        lawsuit.
+
+...PROTECTION RACKET
+p.4     So why is this point important? Ask yourself, if the game can already be 
+        found and played for free, what value is the company providing in 
+        exchange for your money? What service does renting their license provide?
+
+p.5     Protection from their own threat. You're renting a license to not be 
+        sued. In any other industry this is known as a protection racket: 
+        manufacture a threat where one did not exist before, require payment to 
+        be protected 
+        from it. In videogames, this is known as business.
+
+...DISTORTION OF COPYRIGHT LAW
+p.1     How do they get away with it? Extortion is normally illegal because only 
+        the State has the right to threaten violence. So they use the State, by 
+        employing a distorted definition of copyright law and embroiling 
+        individuals in a massive, unwinnable lawsuits.
+
+..."SELLING" INFORMATION IS UNETHICAL
+
+1. "BUT THEY AUTHORED THE GAME!"
+    a.  Authoring a thing does not give anyone a right to extortion. It also 
+        doesn't entitle anyone to profit. Profit is made by providing a good or 
+        service with real value to consumers, which is determined by supplying a 
+        thing with unmet demand. The price paid is derived from that value 
+        provided. 
+    b.  By nature of information's reproducibility, any software released into 
+        the public can be expected to be shared freely and widely. In other 
+        words, information is a product with infinite supply. Regardless of how 
+        much demand is present, a product with infinite supply does not have real 
+        value.
+    c.  Instead of competing fairly in the free market by finding a way to 
+        provide value for the customer, the industry just resorted to extortion 
+        by exploiting a loophole in copyright law. In this way they could 
+        artificially set the price to whatever they want, and threaten anyone who 
+        attempts to obtain it for its real value of $0.
+
+2.  WHY GAMES WOULD STILL BE MADE
+    a.  It should go without saying but a market whose entire provided value 
+        relies on state intervention is not natural. Videogames will continue to 
+        exist even if the state-backed extortion racket suddenly ended, because 
+        in a free market, if there's demand for a thing, a way to produce it will 
+        always be found.
+    b.  Extortion is definitely not the only possible way to monetize videogames, 
+        it's just the easiest and most profitable. New incentive models will 
+        quickly be developed. They might take the form of returning to an 
+        emphasis on physical collector's items, or looking towards ad-based 
+        revenue, or some other unseen models. It might mean seeing a 
+        de-emphasisis on commercialism through non-profit/donations or FOSS-style 
+        group contribution. It's impossible to tell, but what is certain is 
+        models will be developed to meet all the demand that exists, be it for 
+        high-budget AAA spectacles or low-tech indie experiments.
+
+3.  EXTORTION HAS BECOME DOGMA
+    a.  The industry has accomplished instilling the disingenous idea that games 
+        are goods that need to be bought to be played. The sophistic language of 
+        "purchasing" "buying" or "owning" is used to cloud the extortive nature 
+        of the transaction: the reality that a protection license is being 
+        rented, not a game "bought". Any thing sold at a price is participating 
+        in extortion, and developer or distributor that makes use of that 
+        language is complicit in normalizing it.
+    b.  People have fallen for it so hard that even knowing their extortion is a 
+        bluff, they feel being willingly exploited is somehow the right thing to 
+        do. It's not.
+
+...SUPPORTING DEVELOPERS ETHICALLY
+1.  AUTHORS CANNOT CONTROL DISTRIBUTION OR RECEPTION
+    a.  Authorship over a game gives the creator the right to say they made it. 
+        That's it. It doesn't give them the right to control in any way how 
+        people receive the work, what they think of it or what they do with it.
+    b.  Once the game is released into the public domain, it is beyond the 
+        developer's control. They can do nothing to stop anyone from sharing it 
+        or playing, even if they wanted to. And the consumer has every right to 
+        enjoy the game in any way they please. They have no obligation to reward 
+        the developer for making it, for any reason. Donation is always a choice.
+2.  DEVELOPERS ARE NOT ENTITLED TO PROFITS
+    a.  It should always be remembered that the developer is not entitled to make 
+        money off his game just because he took the time to make it.
+    b.  If the author wanted to profit of their work, they should have considered 
+        producing something with real value. It is not the onus of the consumer 
+        to pay an artificially high price derived from the work put into the 
+        product, and ignore the real price-value of the product, just because of 
+        the producer's own failure to be market efficient. And it certainly does 
+        not justify them to resort to extortion to reap unrealized profits they 
+        feel entitled to.
+3.  "BUY GAMES YOU LIKE"
+    a.  In reality, the extortion threats are fairly empty. They work well to 
+        scare the average consumer, but most enthuisasts know it is easy to 
+        escape culpability with proper security measures. Yet, it is commonly 
+        suggested enthuisasts have a duty to buy games they enjoy in order to 
+        support the ongoing development of videogames, anyway.
+    b.  If the extortion threat is meaningless, the protection license becomes  
+        meaningless too. Then what does it mean to "purchase" a game? There is no 
+        value being provided in the transaction, not even the artifical 
+        protection value. Thus, it's a donation. The only reason enthusiasts do 
+        this is to support the company they like, same as someone might 
+        contribute to a church or charity organization.
+    c.  The difference is that they are supporting extortionists, hiding behind 
+        disingenous langauge, such that donation is most often not an available 
+        option. Supporting them means "buying" from them which means giving 
+        yourself up to their exploitation - but knowingly. Calling their 
+        extortion bluff, yet paying them the protection money anyway.
+    d.  Is this really a sustainable support model? The adage of "paying for 
+        games you like" is a noble assertion at its surface, but is there really 
+        much nobility in choosing to be exploited?
+
+4.  DONATIONS, NOT PURCHASES
+    a.  Games should only be supported if they are released ethically.
+    b.  There is no ethical way to "sell" games. A developer must expect and 
+        accept that their game will be shared freely the moment it is released to 
+        the public domain. If the developer charges any more than $0 they are 
+        performing extortion. If they use the disingenous language of extortion 
+        (e.g. "Pay What You Want") they are complicit in its normalization.
+    c.  Donate What You Want is the only ethical model.
+
+...ON PIRACY
+  It's often said on videogame forums that pirates are exploiting developers, are 
+  entitled and are acting immoral. In reality, the opposite is true in each case.
+
+1.  DEVELOPERS ARE ENTITLED, NOT CONSUMERS
+    a.  The developers feel entitled to a profit despite making a valueless 
+        product. There is no justification for this. They feel so strongly 
+        entitled to their undeserved profits they regularly resort to both 
+        extortion and violating the freedom of information.
+    b.  Conversely, the only entitlement piracy employs is the human right to the 
+        freedom of information.
+
+2.  DEVELOPERS ARE PERFORMING EXPLOITATION, NOT PIRATES
+    a.  Developer entitlement manages to be both an act of extortion and a 
+        violation of two separate human rights. I invite you to find a level of 
+        exploitation more extreme.
+    b.  Pirates fighting against them in an unpaid effort to secure the right to 
+        internet freedom for the greater community cannot possibly be construed 
+        as exploitative, yet here we are.
+
+3.  BUYING GAMES IS IMMORAL, NOT PIRATING THEM
+    a.  If you "purchase" a game, you're supporting and continuing the extortion 
+        industry. Doing so knowingly is unethical.
+    b.  If you only play and donate to games released ethically and ignore all 
+        others, you are playing a part in hurting the extortion industry through 
+        boycotting and supporting the non-harmful alternative. This is good, but 
+        it's not the best you can do.
+    c.  Piracy works directly to undermine the extortion industry, through 
+        cracking and sharing its unethically released software. They work solely 
+        out of good will in the name of securing the right to information 
+        freedom. Even taking the passive role of simply downloading pirated 
+        games, supports the alternative that directly hurts the extortion 
+        industry, rather than simply boycotting it. Piracy of any form is the 
+        most ethical action you can take.
+
+GAMES WERE NEVER PRODUCTS: MANIFESTO
+====================================
+
+1. THERE IS NO ETHICAL WAY TO "SELL" GAMES.
+
+2. PAYING MONEY FOR A FREELY AVAILABLE GAME IS DONATION.
+
+3. DONATION IS ALWAYS A CHOICE.
+
+4. AUTHORSHIP DOES NOT CONTROL DISTRIBUTION.
+
+5. DEVELOPER ENTITLEMENT MUST END.
+
+6. DONATION, PIRACY OR NOTHING.
+
+
+03-2019
