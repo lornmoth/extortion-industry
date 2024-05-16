@@ -1,15 +1,15 @@
 		[EXTORTION INDUSTORY: GAMES WERE NEVER PRODUCTS]
 
 
-...GAMES WERE NEVER PRODUCTS
+...EXTORTION INDUSTRY
 
-p.1     If you think you've ever purchased or owned a game, you've been lied to.
+1.  GAMES WERE NEVER PRODUCTS
+    a.  If you think you've ever purchased or owned a game, you've been lied to.
         Games are software, information. The troublesome thing about information 
         is that it's not a tangible, irreproducible good. It can't be traded. The 
         only thing that can be exchanged are the ownership rights associated with 
         that information.
-
-p2.     Instead, what you've paid money for is a service. You're paying for rent 
+    b.  Instead, what you've paid money for is a service. You're paying for rent 
         to a license that gives you the right to use the game. The license you've 
         rented is the only thing that distinguishes you from someone who pirated 
         the same software. Without the license, you are liable to be sued under 
@@ -17,25 +17,23 @@ p2.     Instead, what you've paid money for is a service. You're paying for rent
         copyright. This is written out clearly, if in fine print, in every End 
         User License Agreement and, yes, the rent can be revoked at will without 
         warning or consequence.
-
-p.3     The software itself is not important. The game is already freely 
+    c.  The software itself is not important. The game is already freely 
         available across the internet. It's playing (or sharing) the game without 
         possessing the appropriate license that leaves you vulnerable to a 
         lawsuit.
 
-...PROTECTION RACKET
-p.4     So why is this point important? Ask yourself, if the game can already be 
+2.  PROTECTION RACKET
+    a.  So why is this point important? Ask yourself, if the game can already be 
         found and played for free, what value is the company providing in 
         exchange for your money? What service does renting their license provide?
-
-p.5     Protection from their own threat. You're renting a license to not be 
+    b.  Protection from their own threat. You're renting a license to not be 
         sued. In any other industry this is known as a protection racket: 
         manufacture a threat where one did not exist before, require payment to 
         be protected 
         from it. In videogames, this is known as business.
 
-...DISTORTION OF COPYRIGHT LAW
-p.1     How do they get away with it? Extortion is normally illegal because only 
+3.  DISTORTION OF COPYRIGHT LAW
+    a.  How do they get away with it? Extortion is normally illegal because only 
         the State has the right to threaten violence. So they use the State, by 
         employing a distorted definition of copyright law and embroiling 
         individuals in a massive, unwinnable lawsuits.
